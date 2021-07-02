@@ -1,0 +1,54 @@
+body{
+    background-color: gray;
+}
+
+.branco{
+    background-color: white;
+    height: 131.25px;
+    width: 412.5px;
+    margin: auto;
+    margin-top: 200px;
+    
+}
+
+img{
+    width: 350px;
+}
+
+.azul{
+    background-color: rgb(17, 17, 62);
+    height: 89.06px;
+    width: 412.5px;
+    margin: auto;
+    
+}
+
+p1{
+    position: relative;
+    left: 93.5px;
+    top: 112px;
+    color: rgb(17, 17, 62);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p2{
+    position: relative;
+    left: 131.5px;
+    top: 2px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wpp{
+    position: relative;
+    color: white;
+    top: -1px;
+    left: 90px;
+    list-style-type: "✆";
+    font-size: 25px;
+}
+
+img{
+    margin-left: 30px;
+    margin-top: -10px;
+}
